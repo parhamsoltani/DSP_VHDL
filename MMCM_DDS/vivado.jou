@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jan 26 16:12:02 2024
+# Process ID: 17584
+# Current directory: E:/Projects/FaradAndish/MMCM_DDS
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12088 E:\Projects\FaradAndish\MMCM_DDS\MMCM_DDS.xpr
+# Log file: E:/Projects/FaradAndish/MMCM_DDS/vivado.log
+# Journal file: E:/Projects/FaradAndish/MMCM_DDS\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project E:/Projects/FaradAndish/MMCM_DDS/MMCM_DDS.xpruupdate_compile_order -fileset sources_1

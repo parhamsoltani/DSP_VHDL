@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Sep 21 16:16:27 2020
+# Process ID: 26328
+# Current directory: D:/Examples/IP_Project/IP_Project.runs/synth_1
+# Command line: vivado.exe -log IP_Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source IP_Top.tcl
+# Log file: D:/Examples/IP_Project/IP_Project.runs/synth_1/IP_Top.vds
+# Journal file: D:/Examples/IP_Project/IP_Project.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source IP_Top.tcl -notrace

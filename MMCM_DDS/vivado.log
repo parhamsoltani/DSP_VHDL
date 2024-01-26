@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jan 26 16:12:02 2024
+# Process ID: 17584
+# Current directory: E:/Projects/FaradAndish/MMCM_DDS
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12088 E:\Projects\FaradAndish\MMCM_DDS\MMCM_DDS.xpr
+# Log file: E:/Projects/FaradAndish/MMCM_DDS/vivado.log
+# Journal file: E:/Projects/FaradAndish/MMCM_DDS\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_project E:/Projects/FaradAndish/MMCM_DDS/MMCM_DDS.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+WARNING: [IP_Flow 19-2162] IP 'dds_compiler_0' is locked:
+* IP definition 'DDS Compiler (6.0)' for IP 'dds_compiler_0' (customized with software release 2019.2) has a different revision in the IP Catalog.
+WARNING: [IP_Flow 19-2162] IP 'clk_wiz_0' is locked:
+* IP definition 'Clocking Wizard (6.0)' for IP 'clk_wiz_0' (customized with software release 2019.2) has a different revision in the IP Catalog.
+WARNING: [IP_Flow 19-2162] IP 'ila_0' is locked:
+* IP definition 'ILA (Integrated Logic Analyzer) (6.2)' for IP 'ila_0' (customized with software release 2019.2) has a different revision in the IP Catalog.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 913.902 ; gain = 162.461uupdate_compile_order -fileset sources_1eexit
+INFO: [Common 17-206] Exiting Vivado at Fri Jan 26 16:12:26 2024...

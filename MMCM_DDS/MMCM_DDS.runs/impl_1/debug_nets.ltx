@@ -1,0 +1,134 @@
+{
+    "ltx_root": {
+        "version": 4,
+        "minor": 0,
+        "ltx_data": [
+            {
+                "name": "EDA_PROBESET",
+                "active": true,
+                "debug_cores": [
+                    {
+                        "type": "XSDB_V3",
+                        "name": "dbg_hub",
+                        "spec": "labtools_xsdbm_v3",
+                        "clk_input_freq_hz": "100003970"
+                    },
+                    {
+                        "type": "ILA_V3",
+                        "name": "your_instance_name",
+                        "spec": "labtools_ila_v6",
+                        "ipName": "ila",
+                        "core_location": {
+                            "user_chain": 1,
+                            "slave_index": 0,
+                            "bscan_switch_index": 0
+                        },
+                        "uuid": "C43761E0C03650398C6907A263A83E64",
+                        "pins": [
+                            {
+                                "name": "probe0",
+                                "id": 0,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": false,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 0,
+                                "nets": [
+                                    {
+                                        "name": "Button_Probe",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe1",
+                                "id": 1,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 7,
+                                "portIndex": 1,
+                                "nets": [
+                                    {
+                                        "name": "Sine_Probe",
+                                        "isBus": true,
+                                        "subnets": [
+                                            {
+                                                "name": "Sine_Probe[7]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[6]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[5]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[4]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[3]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[2]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[1]"
+                                            },
+                                            {
+                                                "name": "Sine_Probe[0]"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe2",
+                                "id": 2,
+                                "type": "DATA_TRIGGER",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 7,
+                                "portIndex": 2,
+                                "nets": [
+                                    {
+                                        "name": "Cosine_Probe",
+                                        "isBus": true,
+                                        "subnets": [
+                                            {
+                                                "name": "Cosine_Probe[7]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[6]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[5]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[4]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[3]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[2]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[1]"
+                                            },
+                                            {
+                                                "name": "Cosine_Probe[0]"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

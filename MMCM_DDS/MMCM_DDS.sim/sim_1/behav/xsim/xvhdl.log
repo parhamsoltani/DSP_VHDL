@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Examples/IP_Project/IP_Project.srcs/sources_1/ip/dds_compiler_0/sim/dds_compiler_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dds_compiler_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Examples/IP_Project/IP_Project.srcs/sources_1/new/IP_Top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'IP_Top'
