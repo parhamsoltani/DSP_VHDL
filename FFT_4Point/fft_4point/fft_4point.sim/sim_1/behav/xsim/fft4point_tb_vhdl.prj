@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../fft_4point.srcs/sources_1/new/butterfly.vhd" \
+"../../../../fft_4point.srcs/sources_1/new/fft4point.vhd" \
+"../../../../fft_4point.srcs/sim_1/new/fft4point_tb.vhd" \
+
+# Do not sort compile order
+nosort
